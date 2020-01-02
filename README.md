@@ -20,15 +20,22 @@ I bought mine on Amazon for CAD 49.99: [link here](https://www.amazon.ca/gp/prod
 
 *TBD*
 
-## pictures
+## Hack plan
+
+1. electrical diagram
+2. MCU block diagram
+3. extension plan
+4. extension diagram
+5. codes for MCU and extension
+
+## Pictures
 
 ![Humidifier](pictures/January&#32;2,&#32;2020/IMG_0440.jpeg)
 ![Button](pictures/January&#32;2,&#32;2020/IMG_0441.jpeg)
 ![Led](pictures/January&#32;2,&#32;2020/IMG_0442.jpeg)
 ![Power](pictures/January&#32;2,&#32;2020/IMG_0443.jpeg)
-![MCU](pictures/January&#32;2,&#32;2020/IMG_0435.jpeg)
-![MCU Details](pictures/January&#32;2,&#32;2020/IMG_0436.jpeg)
+![Inside](pictures/January&#32;2,&#32;2020/IMG_0439.jpeg)
 ![Board Top](pictures/January&#32;2,&#32;2020/IMG_0437.jpeg)
 ![Board Bottom](pictures/January&#32;2,&#32;2020/IMG_0438.jpeg)
-![Inside](pictures/January&#32;2,&#32;2020/IMG_0439.jpeg)
-
+![MCU](pictures/January&#32;2,&#32;2020/IMG_0435.jpeg)
+![MCU Details](pictures/January&#32;2,&#32;2020/IMG_0436.jpeg)
